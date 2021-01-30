@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpaceRunner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/SpaceRunner_jar/SpaceRunner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
